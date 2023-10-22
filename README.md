@@ -34,3 +34,4 @@ El objetivo principal de este proyecto es recopilar y procesar datos relacionado
 
 Scraping que se intentaron sin éxito:
 - [Scraping web bikila](https://colab.research.google.com/drive/1LASY5Al3a_zgZjcq_tqXUjKQIgPFx0M-?usp=sharing)
+- [Scrapy Asics](https://colab.research.google.com/drive/12wU6dn1_HEajXDVyEFJww3HJsuo1w6Ck?usp=sharing)
