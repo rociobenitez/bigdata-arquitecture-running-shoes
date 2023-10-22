@@ -25,6 +25,11 @@ Este proyecto tiene como objetivo diseñar, especificar y desplegar un Data Lake
 
 El objetivo principal de este proyecto es recopilar y procesar datos relacionados con zapatillas de running a partir de fuentes web de dominio público. Para lograrlo, se diseñó y desplegó un Data Lake que permite almacenar y analizar datos no estructurados, brindando así una plataforma para futuros análisis y aplicaciones relacionadas con zapatillas de running.
 
+## Hadoop
+
+El proceso de configuración y ejecución en Hadoop no se ha completado en este repositorio debido a limitaciones de tiempo. Sin embargo, se ha detallado un plan completo y los pasos específicos en el siguiente documento alojado en Google Colab, que se encuentra en [enlace al documento de Google Colab](https://colab.research.google.com/drive/1bdfkinQLwRmjWefGTs3zCEspDvgbTzov?usp=sharing).
+
+
 ## Scrapping
 
 - [Scraping web runnea](https://colab.research.google.com/drive/1X0Pathnm0i354dAaWRYBtCppdiQWqP99?usp=sharing)
