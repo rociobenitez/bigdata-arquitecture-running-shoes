@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo diseñar, especificar y desplegar un Data Lake
 
 ## Archivos y Carpetas
 
-- La carpeta "pdf" contiene un archivo que detalla el [Brainstorm, el diseño DAaaS y el Diagrama de flujo de datos](https://docs.google.com/document/d/1M1Q_gQkZJdXR44k0C5f7nL7Loerik3JTwy9DgdBsIOI/edit?usp=sharing) del proyecto.
+- [Brainstorm, el diseño DAaaS y el Diagrama de flujo de datos](https://docs.google.com/document/d/1M1Q_gQkZJdXR44k0C5f7nL7Loerik3JTwy9DgdBsIOI/edit?usp=sharing) del proyecto.
 - Los archivos utilizados se encuentran en la carpeta "csv" dentro de la carpeta "data".
 - Los archivos JSON fueron obtenidos mediante técnicas de scraping pero no se incluyeron finalmente.
 - En la carpeta "data" se muestra el uso de herramientas de scraping.
