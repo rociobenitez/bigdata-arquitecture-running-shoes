@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo diseñar, especificar y desplegar un Data Lake
 - Los archivos JSON fueron obtenidos mediante técnicas de scraping pero no se incluyeron finalmente.
 - En la carpeta "data" se muestra el uso de herramientas de scraping.
 - La carpeta "dataset" incluye archivos que fueron revisados pero finalmente descartados.
-- La carpeta "images_googlecloud" contiene capturas de pantalla de procesos seguidos en la plataforma de Google para crear la aplicación web del comparador de zapatillas. [Explicación de los pasos seguidos en Google Cloud Platgform](https://colab.research.google.com/drive/1nAFmdt4Wmwoc7VzNdYBFdJp6YHfU2jOm?usp=sharing)
+- La carpeta "images_googlecloud" contiene capturas de pantalla de procesos seguidos en la plataforma de Google para crear la aplicación web del comparador de zapatillas. [Explicación de los pasos seguidos en Google Cloud Platform](https://colab.research.google.com/drive/1nAFmdt4Wmwoc7VzNdYBFdJp6YHfU2jOm?usp=sharing)
 - En "memoria-descriptiva.md" se resume el diseño DAaaS seguido en el proyecto.
 
 ## Objetivo
