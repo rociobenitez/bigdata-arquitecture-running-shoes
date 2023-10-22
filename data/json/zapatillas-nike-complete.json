@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Nike Pegasus 39 Shield",
+        "type": [
+            "asfalto",
+            "mal-tiempo"
+        ],
+        "gender": "Unisex",
+        "price": "144,99",
+        "color": "2",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/1a5d5943-2d33-4227-8f13-a4a38fac39c7/pegasus-39-shield-zapatillas-de-running-asfalto-el-mal-tiempo-hGGg1K.png"
+    },
+    {
+        "name": "Nike Pegasus Trail 4 GORE-TEX",
+        "type": [
+            "trail",
+            "mal-tiempo"
+        ],
+        "gender": "Unisex",
+        "price": "159,99",
+        "color": "6",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/62f2cd3a-045f-453e-b902-1529f517ca62/pegasus-trail-4-gore-tex-zapatillas-de-trail-running-el-mal-tiempo-49RhsL.png"
+    },
+    {
+        "name": "Nike Pegasus 39 Shield",
+        "type": [
+            "asfalto",
+            "mal-tiempo"
+        ],
+        "gender": "Unisex",
+        "price": "144,99",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/9022903b-ed99-4f2d-a441-58eb7c19a66c/pegasus-39-shield-zapatillas-de-running-asfalto-el-mal-tiempo-PWG1zl.png"
+    },
+    {
+        "name": "Nike InfinityRN 4 GORE-TEX",
+        "type": [
+            "asfalto",
+            "impermeables"
+        ],
+        "gender": "Unisex",
+        "price": "189,99",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/f09fcd7e-bc38-437a-bcda-8fda38c757b5/infinityrn-4-gore-tex-zapatillas-de-running-asfalto-impermeables-H3TWgV.png"
+    },
+    {
+        "name": "Nike Pegasus Trail 4 GORE-TEX",
+        "type": [
+            "trail",
+            "impermeables"
+        ],
+        "gender": "Unisex",
+        "price": "159,99",
+        "color": "5",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/313be351-7e1b-4dbd-a430-0bc4fe380351/pegasus-trail-4-gore-tex-zapatillas-de-trail-running-el-mal-tiempo-tVWltb.png"
+    },
+    {
+        "name": "Nike InfinityRN 4 GORE-TEX",
+        "type": [
+            "asfalto",
+            "impermeables"
+        ],
+        "gender": "Unisex",
+        "price": "189,99",
+        "color": "2",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/c97f2721-3a96-432b-8e1b-ad9b2f304337/infinityrn-4-gore-tex-zapatillas-de-running-asfalto-impermeables-NF9c2Q.png"
+    },
+    {
+        "name": "Nike Winflo 9 Shield",
+        "type": [
+            "carretera",
+            "mal-tiempo"
+        ],
+        "gender": "Unisex",
+        "price": "124,99",
+        "color": "1",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/a1f18a12-dd05-49c2-9ab7-8d841f4a2ea1/wio-9-shield-zapatillas-de-running-carretera-el-mal-tiempo-VFS7hn.png"
+    },
+    {
+        "name": "Nike Juniper Trail 2 GORE-TEX",
+        "type": [
+            "trail",
+            "impermeables"
+        ],
+        "gender": "Unisex",
+        "price": "114,99",
+        "color": "2",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/d22f1609-4cd9-440e-a2f7-bfe0a85f86d0/juniper-trail-2-gore-tex-zapatillas-de-trail-running-impermeables-n5QMTj.png"
+    },
+    {
+        "name": "Nike Air Winflo 9 Shield",
+        "type": [
+            "asfalto",
+            "mal-tiempo"
+        ],
+        "gender": "Unisex",
+        "price": "124,99",
+        "color": "2",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/8abf1372-0b4a-4c28-aa80-1e06175e68da/air-wio-9-shield-zapatillas-de-running-asfalto-el-mal-tiempo-stP6G3.png"
+    },
+    {
+        "name": "Nike Zoom Fly 5",
+        "type": [
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "169,99",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/f655b4fb-35e9-4a63-acf8-c02dfd78cfda/zoom-fly-5-zapatillas-de-running-carretera-p5TWL7.png"
+    },
+    {
+        "name": "Nike Alphafly 2",
+        "type": [
+            "competicion",
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "309,99",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/1e4ffa00-ad76-4d6f-9ada-c4d73234dd26/alphafly-2-zapatillas-de-competicion-asfalto-fvDSdT.png"
+    },
+    {
+        "name": "Nike Pegasus 40 SE",
+        "type": [
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "90,97",
+        "color": "9",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/ddc51184-d123-4fc6-8c21-6d4848cc94bf/pegasus-40-se-zapatillas-de-running-asfalto-HTDVsQ.png"
+    },
+    {
+        "name": "Nike Vaporfly 3",
+        "type": [
+            "competicion",
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "259,99",
+        "color": "4",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/074a1533-2083-4821-a7c4-4475b2b151f6/vaporfly-3-zapatillas-de-competicion-asfalto-w1H0HM.png"
+    },
+    {
+        "name": "Nike Zegama",
+        "type": [
+            "trail"
+        ],
+        "gender": "Unisex",
+        "price": "95,97",
+        "color": "2",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/29a69268-55ec-4414-9dc9-061e17027a6b/zegama-zapatillas-de-trail-running-ZdbtbB.png"
+    },
+    {
+        "name": "Nike Downshifter 12 Premium",
+        "type": [
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "48,97",
+        "color": "7",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/8f8e20e3-a269-447e-a594-cd98a43dcfd0/downshifter-12-zapatillas-de-running-asfalto-Bq23xl.png"
+    },
+    {
+        "name": "Nike Revolution 6",
+        "type": [
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "45,47",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/7df57edf-bdc6-4320-a956-8ce37228cd1d/revolution-6-zapatillas-de-running-asfalto-FgfhgR.png"
+    },
+    {
+        "name": "Nike Juniper Trail 2",
+        "type": [
+            "trail"
+        ],
+        "gender": "Unisex",
+        "price": "71,97",
+        "color": "2",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/1894f1c1-e603-4298-a977-dd054b45a61c/juniper-trail-2-zapatillas-de-trail-running-DdV7Z4.png"
+    },
+    {
+        "name": "Nike Pegasus Trail 4",
+        "type": [
+            "trail"
+        ],
+        "gender": "Unisex",
+        "price": "97,97",
+        "color": "5",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/15615da0-0b76-4290-8088-011e8018504c/pegasus-trail-4-zapatillas-de-trail-running-bZSnFl.png"
+    },
+    {
+        "name": "Nike Revolution 7",
+        "type": [
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "64,99",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/30d7afaa-343b-4439-b65d-bb544c65420e/revolution-7-zapatillas-de-running-asfalto-BwNjVh.png"
+    },
+    {
+        "name": "Nike Renew Ride 3",
+        "type": [
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "55,97",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/a57a4fce-2892-4053-ab64-c427ce605117/renew-ride-3-zapatillas-de-running-asfalto-prSl6s.png"
+    },
+    {
+        "name": "Nike Juniper Trail 2 Next Nature",
+        "type": [
+            "trail"
+        ],
+        "gender": "Unisex",
+        "price": "53,97",
+        "color": "3",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/3fc82087-7573-4877-84cb-11da7f60adc6/juniper-trail-2-next-nature-zapatillas-de-trail-running-sPRTRf.png"
+    },
+    {
+        "name": "Nike Streakfly",
+        "type": [
+            "competicion",
+            "carretera"
+        ],
+        "gender": "Unisex",
+        "price": "159,99",
+        "color": "1",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/ab28a4be-b0a3-4b8b-9fde-369045dd42cf/streakfly-zapatillas-de-competicion-asfalto-5B4DMx.png"
+    },
+    {
+        "name": "Nike Pegasus Trail 4",
+        "type": [
+            "trail"
+        ],
+        "gender": "Unisex",
+        "price": "83,97",
+        "color": "4",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/5aea546d-37e0-4e72-bd60-bf38fd15f5a4/pegasus-trail-4-zapatillas-de-trail-running-LtLzpn.png"
+    },
+    {
+        "name": "Nike Pegasus 40 Premium",
+        "type": [
+            "asfalto"
+        ],
+        "gender": "Unisex",
+        "price": "139,99",
+        "color": "1",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/f91a5813-295d-4043-9d43-7e4f226c1238/pegasus-40-zapatillas-de-running-asfalto-zpNZDZ.png"
+    }
+]

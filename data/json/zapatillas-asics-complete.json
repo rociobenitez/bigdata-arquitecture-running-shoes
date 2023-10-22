@@ -1,0 +1,186 @@
+[
+    {
+        "name": "GT-2000 12 LITE-SHOW",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B766_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12 LITE-SHOW",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B578_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-KAYANO 30 LITE-SHOW",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "200,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B765_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-KAYANO 30 LITE-SHOW",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "200,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B576_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-1000 12 LITE-SHOW",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "130,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B762_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-CUMULUS 25 LITE-SHOW",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B752_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-1000 12 LITE-SHOW",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "130,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B573_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-CUMULUS 25 LITE-SHOW",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B565_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12 TR",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B775_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12 WIDE",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B689_002_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12 TR",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B587_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12 NARROW",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B509_002_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-NIMBUS 25 TR",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "200,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B769_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-NIMBUS 25 TR",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "200,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B581_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-1000 12 TR",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "130,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B761_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-CUMULUS 25 TR",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1011B751_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-1000 12 TR",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "130,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B575_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GEL-CUMULUS 25 TR",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "160,00",
+        "color": "1",
+        "image": "https://images.asics.com/is/image/asics/1012B564_200_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "5",
+        "image": "https://images.asics.com/is/image/asics/1011B691_001_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "5",
+        "image": "https://images.asics.com/is/image/asics/1011B691_401_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "5",
+        "image": "https://images.asics.com/is/image/asics/1011B691_400_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12",
+        "type": "Calzado para mujer",
+        "gender": "Mujer",
+        "price": "160,00",
+        "color": "4",
+        "image": "https://images.asics.com/is/image/asics/1012B506_022_SR_RT_GLB?$productlist$"
+    },
+    {
+        "name": "GT-2000 12",
+        "type": "Zapatillas de hombre",
+        "gender": "Hombre",
+        "price": "160,00",
+        "color": "5",
+        "image": "https://images.asics.com/is/image/asics/1011B691_003_SR_RT_GLB?$productlist$"
+    }
+]
